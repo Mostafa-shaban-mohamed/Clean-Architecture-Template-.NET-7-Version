@@ -2,7 +2,7 @@
 This is clean architecture template in ASP.NET (.NET 7+ / First Version)
 
 ## Description
-This is My Tempalate for Clean Architecture Design for my future projects.
+This is Template for Clean Architecture Design for my future projects.
 I though of sharing it with other developers whose had my problem of finding a ready-on-developement template for clean architecture
 instead of designing new one from scratch. So I told myself let me design one from scratch and then reuse it in future projects.
 
